@@ -1,0 +1,68 @@
+body{
+    background-color: #E8E8E8;
+}
+.title{
+    position: fixed;
+    display: flex;
+    top:0;
+    left: 0;
+    right: 0;
+    background-color: white;    
+}
+.home{
+    padding-left: 30px;
+    padding-top: 7px;
+}
+.name{
+    padding-left: 60px;
+    color: #6498AD;
+    margin-top: 19px;
+}
+.professional{
+    padding-left: 895px;
+}
+.contact{
+    padding-left: 30px;
+}
+.link{
+    text-decoration: none;
+    color:#548396;
+    font-weight: 100;
+}
+.down{
+    padding-top: 130px;
+}
+.project{
+    margin-top:0rem;
+    padding-left:220px;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+.heading{
+    font-size:30px;
+    padding-left:220px;
+    font-weight: bolder;
+}
+.flex1{
+    display: flex;
+    padding-left: 350px;
+}
+.desc{
+    margin-top: 1px;
+    margin-right: 60px;
+    font-size: 20px;
+    line-height: 30px;
+    word-spacing: 7px;
+    font-weight: 100;
+
+}
+#iot{
+    margin-right: 200px;
+}
+.image{
+    margin-right: 50px;
+}
+#dustbin{
+    margin-right: 150px;
+}

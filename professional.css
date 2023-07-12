@@ -1,0 +1,71 @@
+body{
+    background-color: #E8E8E8;
+}
+.down{
+    padding-top:80px;
+}
+.title{
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right:0;
+    background-color: white;
+}
+.link{
+    text-decoration: none;
+    color: #6498AD;;
+}
+.name{
+    padding-left: 60px;
+    color: #6498AD;
+}
+.home{
+    padding-left: 30px;
+    padding-top: 9px;
+}
+.project{
+    padding-left: 970px;
+    font-weight: 500;
+}
+
+.contact{
+    padding-left: 30px;
+    font-weight: 500;
+}
+.mid{
+    padding-left: 250px;
+}
+.Education{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.degree{
+    font-size: 23px;
+    font-weight:550;
+}
+.college{
+    font-size: 22px;
+}
+.year{
+    font-size: 23px;
+    padding-left: 450px;
+}
+.flex{
+    display: flex;
+}
+hr.line1{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border:1px solid #515455;
+    
+}
+.head{
+    font-size: 35px;
+    font-weight: bold;
+}
+.pl{
+    margin-left: 1043px;
+    font-size: 18px;
+}

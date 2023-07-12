@@ -1,0 +1,93 @@
+body{
+    background-color: #E8E8E8;
+}
+.title{
+    display: flex;
+    position:fixed;
+    top: 0px;
+    background-color:white;
+    left: 0px;
+    right: 0px;
+}
+.link{
+    text-decoration:none;
+    color: #6498AD;
+}
+.name{
+    padding-left: 60px;
+    color: #6498AD;
+  
+}
+.down{
+    padding-top: 130px;
+}
+.centre{
+    display: flex;
+    justify-content: space-around;
+}
+.Hello{
+    padding-top:40px;
+    padding-left: 40px;
+    font-size: 85px;
+}
+.objective{
+    margin-top:3px;
+    font-weight: 40px;
+    font-size: 23px;
+    margin-left: 42px;
+
+}
+.professional{
+    padding-left:880px;
+    font-weight: 500;
+   
+}
+.project{
+    padding-left: 30px;
+    font-weight: 500;
+}
+
+.contact{
+    padding-left: 30px;
+    font-weight: 500;
+}
+.image{
+    margin-left: 125px;
+    border-radius: 5%;
+    width: 100%;
+    height:100%;
+}
+
+.overview{
+    margin-left: 10%;
+}
+.low{
+    padding-top:140px;
+}
+.contactinfo{
+    display: flex;
+}
+.line{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.mobileno{
+    padding-left:60px;
+
+}
+.Email{
+    padding-left: 570px;
+}
+.Follow{
+    padding-left: 560px;
+}
+.light{
+    font-weight: 300;
+}
+.linkedin{
+    padding-left: 350px;
+}
+.gitHub{
+    padding-top: 1px;
+    padding-left: 10px;
+}
